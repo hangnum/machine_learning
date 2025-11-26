@@ -1,0 +1,12 @@
+C_range:
+  base: 2
+  end: 5
+  start: -5
+  step: 1
+degree: 4
+gamma: 1
+kernel: rbf
+n_jobs: -1
+output_dir: results
+random_state: 42
+tol: 0.0008
