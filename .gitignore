@@ -1,3 +1,7 @@
 *.pkl
 *.md
 *.doc
+*.docx
+*.pyc
+
+__pycache__/
